@@ -23,4 +23,7 @@ py.test --junitxml results.xml test.py
 ```shell
 python3 main.py
 ```
-## Test hook
+## Screenshot from Jenkins
+![Jenkins](https://github.com/ilnikolay/tap-ci/blob/main/jenkins.png "Jenkins")
+## Screenshot from SonarQube
+![SQ](https://github.com/ilnikolay/tap-ci/blob/main/sonarqube.png "SQ")
