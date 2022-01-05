@@ -23,4 +23,3 @@ py.test --junitxml results.xml test.py
 ```shell
 python3 main.py
 ```
-## Testing hooks
